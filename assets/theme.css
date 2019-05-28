@@ -1,0 +1,150 @@
+body{
+							font-size: 15px;
+			}
+	p{
+					}
+	h1,.h1{
+					font-family: Vidaloka;
+					}
+	h2,.h2{
+					font-family: Vidaloka;
+							font-size: 45px;
+			}
+	h3,.h3{
+					font-family: Vidaloka;
+							font-size: 36px;
+			}
+	h4,.h4{
+					font-family: Vidaloka;
+					}
+	h5,.h5{
+					font-family: Vidaloka;
+							font-size: 16px;
+			}
+	h6,.h6{
+					}
+	a{
+					}
+
+
+
+
+										.progressbar-text{
+					font-family:Vidaloka;
+					font-size: ;
+				}
+							
+	.navbar-nav{
+	margin-top: 15px;
+}
+h4, .h4, h3, .h3{
+	line-height: 1.7;
+}
+.list{
+	margin-bottom: 100px;
+    padding-left: 65px;
+    position: relative;
+}
+.list i{
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 65px;
+    text-align: center;
+    border-right: 1px solid #eaeaea;
+    color: #eaeaea;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.list:hover i{
+	color: rgb(255, 235, 59);
+}
+.list > h5{
+    margin: 0 0 25px 30px;
+}
+.list > p {
+    margin: 5px 0 0 30px;
+	color: #969595;
+}
+.navbar-custom .container{
+	border-bottom: 1px solid #eaeaea;
+}
+.progressbar-text{
+	font-size: 50px;
+    line-height: 50px;
+	text-align:center;
+}
+.progressbar-text .aftertext{
+	font-size: 20px;
+    color: #ffeb3b;
+    white-space: nowrap;
+}
+.widget-cat-profile .icon{
+	color:#dadada !important;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    display: inline-block;
+    border-radius: 100%;
+}
+.widget-cat-profile .icon:hover{
+	color:#ffffff !important;
+	background-color:rgb(255, 235, 59);
+}
+.isotope-filter li a {
+    padding: 8px 25px;
+    background: #ffffff;
+    border: 1px solid #fcde30;
+    font-size: 12px;
+}
+.isotope-filter li a:hover{
+	background: #fcde30;
+}
+figure.effect-lily {
+    background: transparent !important;
+}
+figure.effect-lily h2{
+	opacity: 0;
+}
+figure.effect-lily:hover {
+    background: #ffda00 !important;
+}
+figure.effect-lily:hover h2{
+	opacity: 1 !important;
+}
+figure.effect-lily:hover .img {
+    opacity: .2;
+}
+figure.effect-lily:hover p,
+figure.effect-lily:hover h2{
+    color: #000;
+}
+figure.effect-lily h2 {
+    color: rgba(255,255,255,.8);
+    opacity: 0;
+    -webkit-transition: opacity .2s,-webkit-transform .35s;
+    transition: opacity .2s,transform .35s;
+}
+figure.effect-lily:hover h2 {
+    -webkit-transition-delay: 50ms;
+    transition-delay: 50ms;
+    -webkit-transition-duration: .35s;
+    transition-duration: .35s;
+}
+figure.effect-lily h2{
+    -webkit-transform: translate3d(0,40px,0);
+    transform: translate3d(0,40px,0);
+}
+.owl-carousel.owl-drag .owl-item{
+	padding: 10px;
+}
+.custom_footer {
+    padding: 50px 0 10px;
+}
+.custom_footer .social_icons_widget .social .fa{
+    background: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+}
+	
